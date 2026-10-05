@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle WinForms", "Rectangle WinForms\Rectangle WinForms.csproj", "{C070D9BE-41B0-4AE7-8658-C4E546636A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C070D9BE-41B0-4AE7-8658-C4E546636A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C070D9BE-41B0-4AE7-8658-C4E546636A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C070D9BE-41B0-4AE7-8658-C4E546636A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C070D9BE-41B0-4AE7-8658-C4E546636A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F03AE22-15C3-4311-A98E-5C2CC7468FFB}
+	EndGlobalSection
+EndGlobal
